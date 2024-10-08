@@ -1,8 +1,8 @@
 # ZedOneDark
 
 ![Build](https://github.com/karataydev/ZedOneDark/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/25506-zedonedark)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/25506-zedonedark)
+[![Version](https://img.shields.io/jetbrains/plugin/v/25506-zedonedark.svg)](https://plugins.jetbrains.com/plugin/25506-zedonedark)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/25506-zedonedark.svg)](https://plugins.jetbrains.com/plugin/25506-zedonedark)
 
 ## ZedOneDark IntelliJ Theme
 
